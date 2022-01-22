@@ -4,3 +4,4 @@ hello git branch-1 dog
 我是协作者 ygl3
 pull test
 我是跨团队协助者 ylg168
+ssh test
